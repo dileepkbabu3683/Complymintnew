@@ -1,6 +1,6 @@
 {
-  "name": "complymint",
-  "version": "1.0.0",
+  "name": "complymintnew",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -12,6 +12,20 @@
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
-    "vite": "^5.0.0"
-  }
+    "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dileepkbabu3683/Complymintnew.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dileepkbabu3683/Complymintnew/issues"
+  },
+  "homepage": "https://github.com/dileepkbabu3683/Complymintnew#readme"
 }
